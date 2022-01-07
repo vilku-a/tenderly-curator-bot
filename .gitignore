@@ -1,10 +1,7 @@
 # Project exclude paths
 /node_modules/
 
-/build
+/build/
 
-/.env
+/.env/
 
-.idea
-
-/dist
