@@ -5,7 +5,7 @@
 /build
 
 # env build
-/.env
+.env
 
 
 .idea
