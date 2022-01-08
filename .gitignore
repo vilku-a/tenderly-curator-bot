@@ -7,3 +7,6 @@
 # env build
 /.env
 
+# idea
+.idea
+
